@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Who Can It Be Now?",
+  "base_artist": "Men At Work",
+  "createdAt": "2026-02-21T03:42:24.665983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who Can It Be Now?",
+      "artist": "MenAtWorkVEVO",
+      "has_synced": true,
+      "path": "select/01_Who_Can_It_Be_Now_MenAtWorkVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who Can It Be Now?",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/02_Who_Can_It_Be_Now_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who Can It Be Now",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_Who_Can_It_Be_Now_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who Can It Be Now?",
+      "artist": "Men At Work",
+      "has_synced": true,
+      "path": "select/04_Who_Can_It_Be_Now_Men_At_Work.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who Can It Be Now?",
+      "artist": "Men At Work",
+      "has_synced": true,
+      "path": "select/05_Who_Can_It_Be_Now_Men_At_Work.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who Can It Be Now?",
+      "artist": "Men At Work",
+      "has_synced": true,
+      "path": "select/06_Who_Can_It_Be_Now_Men_At_Work.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who Can It Be Now?",
+      "artist": "Men At Work",
+      "has_synced": true,
+      "path": "select/07_Who_Can_It_Be_Now_Men_At_Work.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Who Can It Be Now?",
+      "artist": "Men at Work",
+      "has_synced": true,
+      "path": "select/08_Who_Can_It_Be_Now_Men_at_Work.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who Can It Be Now?",
+      "artist": "Men At Work",
+      "has_synced": false,
+      "path": "select/pl_01_Who_Can_It_Be_Now_Men_At_Work.txt"
+    }
+  ]
+}
